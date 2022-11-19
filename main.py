@@ -9,3 +9,8 @@ print(i + b)
 i = 10
 b = 15
 print(i + b)
+
+
+i = 25
+b = 40
+print(i + b)
