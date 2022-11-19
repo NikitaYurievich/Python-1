@@ -5,3 +5,7 @@ print(i + b)
 i = 7
 b = 8
 print(i + b)
+
+i = 7
+b = 8
+print(i + b)
